@@ -1,0 +1,12 @@
+awesome_streamlit==20200728.1
+streamlit==0.83.0
+opencv_python==4.5.2.54
+keras_nightly==2.5.0.dev2021032900
+matplotlib==3.4.2
+numpy==1.19.5
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2
+tensorflow==2.5.0
+tensorflow-estimator==2.5.0
+tensorflow-hub==0.12.0
+Pillow==8.2.0
