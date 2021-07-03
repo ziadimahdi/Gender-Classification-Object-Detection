@@ -5,7 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import awesome_streamlit as ast
 from PIL import *
-from .cv2 import *
 
 def detect_objects(our_image):
     st.set_option('deprecation.showPyplotGlobalUse', False)
