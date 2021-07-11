@@ -1,2 +1,4 @@
-apt-get update -y
-apt-get install libglib2.0-0
+libglib2.0-0
+libsm6
+libxext6
+libxrender-dev
